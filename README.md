@@ -32,11 +32,11 @@ Open http://localhost:3000 to view it in the browser.
 
 ## Functionalities
 
-- **Responsive Design** : fully responsive and optimized for all devices.
+- **Responsive design** : fully responsive and optimized for all devices.
 - **User fiendly dashboard** : allows users to manage their payment activities efficiently.
-- **Secure Transactions** : users have to login inorder to access their respective account dashboard.
-- **Manage Payments** : add, track, and manage your payments and transactions.
-- **Real-time Analytics** : track and analyze transaction data in real-time.
+- **Secure transactions** : users have to login inorder to access their respective account dashboard.
+- **Manage payments** : add, track, and manage your payments and transactions.
+- **Real-time analytics** : track and analyze transaction data in real-time.
 
 ## Features
 
