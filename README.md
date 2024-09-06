@@ -33,14 +33,14 @@ Open http://localhost:3000 to view it in the browser.
 ## Functionalities
 
 - **Responsive design** : fully responsive and optimized for all devices.
-- **User fiendly dashboard** : allows users to manage their payment activities efficiently.
+- **User friendly dashboard** : allows users to manage their payment activities efficiently.
 - **Secure transactions** : users have to login inorder to access their respective account dashboard.
 - **Manage payments** : add, track, and manage your payments and transactions.
 - **Real-time analytics** : track and analyze transaction data in real-time.
 
 ## Features
 
-- **Transfer money** : users can make transactions to any other existing account.
+- **Transfer money** : users can make transactions to any other user's existing account.
 - **Request loan** : the bank grants a loan if the user has atleast one deposit >= 10% of the requested amount. 
 - **Close account** : users can close their own account simply by entering their login credentials.
 - **Sort transactions** : the transactions are by default displayed in the order of their dates but can be sorted based on the transaction values/amount.
