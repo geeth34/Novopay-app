@@ -43,7 +43,7 @@ Open http://localhost:3000 to view it in the browser.
 - **Transfer money** : users can make transactions to any other user's existing account.
 - **Request loan** : the bank grants a loan if the user has atleast one deposit >= 10% of the requested amount. 
 - **Close account** : users can close their own account simply by entering their login credentials.
-- **Sort transactions** : the transactions are by default displayed in the order of their dates but can be sorted based on the transaction values/amount.
+- **Sort transactions** : the transaction history is by default displayed in the order of their dates but can be sorted based on the transaction values/amount.
 - **Logout timer** : improve security by automatically logging out users after a period of inactivity.
 
 ## Built with
